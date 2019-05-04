@@ -17,4 +17,4 @@ cmake = "0.1.38"
 [dependencies]
 alloc = { path = "../liballoc" }
 core = { path = "../libcore" }
-compiler_builtins = "0.1.0"
+compiler_builtins = "0.1.10"
