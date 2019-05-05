@@ -15,5 +15,5 @@ rustc_macros = { path = "../librustc_macros" }
 rustc_data_structures = { path = "../librustc_data_structures" }
 arena = { path = "../libarena" }
 scoped-tls = "1.0"
-unicode-width = "0.1.4"
-cfg-if = "0.1.2"
+unicode-width = "0.1.5"
+cfg-if = "0.1.6"

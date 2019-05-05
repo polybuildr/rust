@@ -6,7 +6,7 @@ license = "MIT/Apache-2.0"
 edition = "2018"
 
 [dependencies]
-clap = "2.25.0"
+clap = "2.32.0"
 
 [dependencies.mdbook_2]
 package = "mdbook"
